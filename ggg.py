@@ -4,7 +4,7 @@ c=input('ENTER PHPSESSID cookie')
 cookies = {'PHPSESSID':c}
 
 
-url=input('Enter url:')
+url=input('Enter url: Dlive')
 
 
 for i in range(1,10):
