@@ -1,5 +1,8 @@
 import requests
 
+test= requests.get('1.1.1.1')
+if test.data:
+    pass
 cookie = {'PHPSESSID': 'oun52stc0c0holtrige3ndhkc7'}
 url = "https://los.eagle-jump.org/xavis_fd4389515d6540477114ec3c79623afe.php?pw="
 cmp = "Hello admin"
